@@ -12,7 +12,7 @@
  .list-social-icons a:hover{col or:#bd5d38}
  .list-social-icons a .fa-lg{font-size:1.75rem}
  .list-icons{font-size:3rem}
- .list-icons .list-inline-item i:hover{color:#bd5d38; max-width: 800px}
+ .list-icons .list-inline-item i:hover{color:#bd5d38}
  #sideNav .navbar-nav .nav-item .nav-link{font-weight:600;text-transform:uppercase}
  @media (min-width:992px){#sideNav{text-align:center;position:fixed;top:0;left:0;display:flex;flex-direction:column;width:17rem;height:100vh}
  #sideNav .navbar-brand{display:flex;margin:auto auto 0;padding:.5rem}
@@ -30,3 +30,4 @@
  .text-primary{color:#bd5d38!important}a{color:#bd5d38}a:active,a:focus,a:hover{color:#824027}
  .ritning{width: 100%}
  .programvara{width: 70px}
+ .list-inline-item {max-width: 800px}
