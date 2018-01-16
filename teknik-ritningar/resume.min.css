@@ -9,7 +9,7 @@
  h2{font-size:3.5rem}
  .subheading{text-transform:uppercase;font-weight:500;font-family:'Saira Extra Condensed',serif;font-size:1.35rem}
  .list-social-icons a{color:#495057}
- .list-social-icons a:hover{color:#2a3140!important}
+ .list-social-icons a:hover{color:#c5927e!important}
  .list-social-icons a .fa-lg{font-size:1.75rem}
  .list-icons{font-size:3rem}
  .list-icons .list-inline-item i:hover{color:#bd5d38}
@@ -27,8 +27,8 @@
  section.resume-section .resume-item .resume-date{min-width:18rem}}
  @media (min-width:992px){section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}
  .bg-primary{background-color:#2a3140!important}
- .text-primary{color:#2a3140!important}a{color:#2a3140}a:active,a:focus,a:hover{color:#2a3140}
+ .text-primary{color:#2a3140!important}a{color:#bd5d38}a:active,a:focus,a:hover{color:#824027}
  .ritning{width: 100%}
  .programvara{width: 70px}
  .list-inline-item {max-width: 800px}
- .img-fluid.img-profile.rounded-circle.mx-auto.mb-8 {width: 65px}
+ .img-fluid.img-profile.rounded-circle.mx-auto.mb-8 {width: 65px;border:.3rem solid rgba(255,255,255,.2)}
