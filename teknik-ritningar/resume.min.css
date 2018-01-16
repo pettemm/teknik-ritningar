@@ -27,7 +27,7 @@
  section.resume-section .resume-item .resume-date{min-width:18rem}}
  @media (min-width:992px){section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}
  .bg-primary{background-color:#2a3140!important}
- .text-primary{color:#2a3140!important}a{color:#bd5d38}a:active,a:focus,a:hover{color:#824027}
+ .text-primary{color:#bd5d38!important}a{color:#bd5d38}a:active,a:focus,a:hover{color:#824027}
  .ritning{width: 100%}
  .programvara{width: 70px}
  .list-inline-item {max-width: 800px}
